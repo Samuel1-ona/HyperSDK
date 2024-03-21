@@ -192,8 +192,7 @@ When you are done, the output should look something like this:
 ```
 database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
-chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
-metadata (can be changed later): MarioCoin
+chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9metadata (can be changed later): samuel
 continue (y/n): y
 ✅ txID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
@@ -217,7 +216,7 @@ database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 assetID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
-metadata: MarioCoin supply: 0
+metadata: samuel supply: 0
 recipient: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 amount: 10000
 continue (y/n): y
@@ -237,7 +236,7 @@ database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 assetID (use TKN for native token): 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
-metadata: MarioCoin supply: 10000 warp: false
+metadata: samuel supply: 10000 warp: false
 balance: 10000 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
 
@@ -257,7 +256,7 @@ chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 in assetID (use TKN for native token): TKN
 ✔ in tick: 1█
 out assetID (use TKN for native token): 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
-metadata: MarioCoin supply: 10000 warp: false
+metadata: samuel supply: 10000 warp: false
 balance: 10000 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 out tick: 10
 supply (must be multiple of out tick): 100
@@ -287,7 +286,7 @@ chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
 in assetID (use TKN for native token): TKN
 balance: 997.999993843 TKN
 out assetID (use TKN for native token): 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
-metadata: MarioCoin supply: 10000 warp: false
+metadata: samuel supply: 10000 warp: false
 available orders: 1
 0) Rate(in/out): 100000000.0000 InTick: 1.000000000 TKN OutTick: 10 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug Remaining: 100 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 select order: 0
